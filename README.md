@@ -1,4 +1,4 @@
-E-Commerce Automation Testing Selenium with Java. 
+E-BookStore Automation Testing Selenium with Java. 
 
 Testing scenarios: 
 
